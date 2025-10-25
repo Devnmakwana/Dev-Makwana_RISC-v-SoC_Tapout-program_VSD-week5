@@ -76,8 +76,7 @@ cd examples/demo_flow
 make run
 ```
 
-📸 Example Output  
-![Alt Text](Images/setup_step4.jpg)
+
 
 ---
 
@@ -123,5 +122,4 @@ Inside the `flow/` directory:
 │   ├── reports          -> Timing, power, and area analysis results
 │   ├── scripts          -> TCL and Python-based automation utilities
 │   └── utils            -> Helper tools and custom commands
-```
-and update the commands or image na
+
