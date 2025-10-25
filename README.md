@@ -50,8 +50,6 @@ Once dependencies are installed, build the main environment:
 ./build_chipcraft.sh
 ```
 
-📸 Example Output  
-![Alt Text](Images/setup_step2.jpg)
 
 ---
 
